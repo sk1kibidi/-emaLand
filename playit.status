@@ -1,388 +1,178 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721775302221 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721780830255 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775305282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780833373 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775308381 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780836425 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775311433 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780839485 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775314503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780842606 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775317559 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780845677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775320650 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780848754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775323725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780851794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775326788 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780855126 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775329821 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780858177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775332860 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780861239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775335913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780864285 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775338994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780867327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775342084 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780870389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775345144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780873481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775348196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780876515 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775351315 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780879703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775354462 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780882781 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775357554 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780885843 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775360594 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780888921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775363648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780892022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775366746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780895060 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775369815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780898109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775372923 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780901172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775375994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780904245 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775379059 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780907318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775382133 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780910407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775385210 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780913463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775388266 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780916517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775391361 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775394452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775397496 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775400541 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775403619 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775406673 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775409776 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775412824 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775415896 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775418967 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775422063 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775425107 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775428154 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775431311 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775434537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775437589 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775440628 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775443743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775446842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775449897 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775452960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775456057 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775459107 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775462186 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775465232 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775468308 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775471371 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775474422 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775477544 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775480615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775483657 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775486698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775489746 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775492790 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775495875 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-included-liberia.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-provided-bucks.gl.at.ply.gg:2462 => 127.0.0.1:2462 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721775498943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721780919561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
